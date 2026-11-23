@@ -40,7 +40,7 @@ Desenvolvido como atividade prática durante o curso **Formação Front-end** da
 
 Nati Peralta
 
-Desenvolvedora Front-end
+Desenvolvedora Full Stack
 
     GitHub: @NatiPeralta
 
